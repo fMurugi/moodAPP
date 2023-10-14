@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/question": {
+        "memory": 1024,
+        "maxDuration": 60
+      }
+    }
+  }
